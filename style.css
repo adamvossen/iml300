@@ -1,0 +1,65 @@
+.hero2 {
+    background-image: url("assets/stripedbackg.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.hero3 {
+    background-image: url("assets/starsbg.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.hero4 {
+    background-image: url("assets/oldepaperbg.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.hero5 {
+    background-image: url("assets/peacebg.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.hero {
+  background-image: url("assets/paper.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.title {
+    text-align:center;
+    color: #262626;
+    font-family: Garamond;
+    font-weight: lighter
+
+}
+
+a:link {
+    color:#966c32
+}
+a:visited {
+    color:#361706
+}
+a:hover {
+    color:#a15830
+}
