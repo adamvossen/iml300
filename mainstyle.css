@@ -1,0 +1,61 @@
+body {
+    background-image: url("assets/mainbg.jpg");
+
+}
+
+.hero {
+  background-image: url("assets/mainbg.jpg");
+    background-color: #cccccc;
+  height: 730px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.title {
+    font-size: 60px;
+    letter-spacing: 18px;
+    color: #FFFFFF;
+    font-family: Trueno;
+    font-weight: bold
+
+}
+
+.heading {
+    font-size: 40px;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    letter-spacing: -2px;
+    font-weight: bold
+    
+}
+
+
+.body {
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    letter-spacing: -1px;
+    
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: lightblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkslateblue;
+}
+
+/* selected link */
+a:active {
+  color: blueviolet;
+}
+
