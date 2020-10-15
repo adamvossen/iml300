@@ -1,5 +1,5 @@
 # Breathing Exercise Chrome Extension
-![breathing](https://github.com/adamvossen/iml300/assets/breathing.gif)
+![breathing](https://github.com/adamvossen/iml300/blob/master/assets/breathing.gif)
 
 A simple Google Chrome extension that allows you to practice mindful breathing to keep you calm and collected while scrolling the web. Made with p5.js
 
